@@ -1,2 +1,2 @@
 # Testing
-This is a repository for testing!
+I'm testing the usage of github!
